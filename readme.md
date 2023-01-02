@@ -1,0 +1,1 @@
+https://pocketbaseio.azurewebsites.net/_/
