@@ -1,0 +1,6 @@
+/.idea/.gitignore
+/.idea/modules.xml
+/.idea/pocketbase-azure.iml
+/.idea/vcs.xml
+/pb_data/data.db
+/pb_data/logs.db
